@@ -1,3 +1,3 @@
-Reference: <TODO: branch, checkout>
+Reference: <TODO: merge>
 
-To get to this step `git checkout` the 'step-5' branch and try to visit this file again.
+You found two witness intreview files. Take a look inside both of them and save any useful information that comes up into 'interview_info.txt'. Commit the file but don't push it yet! first checkout the 'master' branch again and merge 'step-5' branch into it.
