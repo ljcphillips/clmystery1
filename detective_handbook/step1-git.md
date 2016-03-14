@@ -1,4 +1,8 @@
-This reference contains only the commands you will need to complete Step 1. To learn more about what Git is look into the [./git.md](Git walkthrough). Use `man git` to see what Git creators have to say about it.
+This reference contains only the commands you will need to complete Step 1.
+
+Take some time to read through the [./git.md](Git walkthrough) and make yourself familiar with the important Git concepts.
+
+Use `man git` to see what Git creators have to say about it.
 
 # `git --help COMMAND`
 
@@ -24,4 +28,4 @@ Git status shows what changes you have made since the last commit. The output of
 
 # `git push`
 
-After you committed the changes they still only exist on your machine. To "share" the work you need to push the changes to a remote repository. If you cloned the repository from Github you already have a remote repository setup. When you push your changes they will be pushed to Github. Type `git push` to push your commits.
+After you have committed the changes, they still only exist on your machine. To "share" the work you need to push the changes to a remote repository. If you cloned the repository from Github you already have a remote repository setup. When you push your changes they will be pushed to Github. Type `git push` to push your commits.
